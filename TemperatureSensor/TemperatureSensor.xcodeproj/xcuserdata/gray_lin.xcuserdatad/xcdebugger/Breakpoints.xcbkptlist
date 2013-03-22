@@ -68,5 +68,31 @@
          landmarkName = "-start"
          landmarkType = "5">
       </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "TemperatureSensor/Quartz.m"
+         timestampString = "385633820.851138"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "144"
+         endingLineNumber = "144"
+         landmarkName = "-touchesEnded:withEvent:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "TemperatureSensor/Quartz.m"
+         timestampString = "385634834.158645"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "74"
+         endingLineNumber = "74"
+         landmarkName = "-drawRect:"
+         landmarkType = "5">
+      </FileBreakpoint>
    </FileBreakpoints>
 </Bucket>
